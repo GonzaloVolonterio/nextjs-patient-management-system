@@ -20,15 +20,19 @@
 👉 Manage and Track Application Performance Using Sentry: The application uses Sentry to monitor and track its performance and detect any errors.
 
 
+
 ### Built With
 
 ```
- Next.js
-Appwrite
+Next.js
+React
 Typescript
 TailwindCSS
+Radix
+Appwrite
 ShadCN
 Twilio
+Sentry
 ```
 
 ### Clone repo 🔧
